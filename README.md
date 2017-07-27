@@ -32,7 +32,7 @@
     
 
 
-[戳我![图片](https://avatars3.githubusercontent.com/u/17595642?v=3&s=460)](https://szy1000.github.io/ajax/demo/)
+[戳我![图片](https://github.com/Tinayu0915/ajax/blob/master/memory.jpg)](https://szy1000.github.io/ajax/demo/)
 
 
 vue
